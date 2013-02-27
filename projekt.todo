@@ -2,14 +2,14 @@ Html5 Männl:
   ✔ Dokumentstruktur @done (13-02-24 11:42)
   ✔ Logik einbinden @done (13-02-24 11:42)
   ✔ Beim öffnen der Seite Funktion ausführen @done (13-02-24 11:42)
-  ☐ Zeichenfläche als Variable speichen
-  ☐ Höhe und Breite als Variable speichen
-  ☐ Zeichenfunktion erstellen ( auch "draw" genannt )
+  ✔ Zeichenfläche als Variable speichen @done (13-02-24 13:16)
+  
+  ✔ Zeichenfunktion erstellen ( auch "draw" genannt ) @done (13-02-24 14:08)
   ☐ Die Zeichenfunktion aller 100ms ausführen ( auch "update" genannt )
-  ☐ Den Hintergrund der Zeichenfläche schwarz zeichen
-  ☐ Männchen Bild zeichnen
-  ☐ Höhe und Breite des Bilds als Variable speichern
-  ☐ Das eigentliche Bild auf die Zeichenfläche zeichnen
+  ✔ Den Hintergrund der Zeichenfläche schwarz zeichen @done (13-02-24 14:08)
+  ✔ Männchen Bild zeichnen @done (13-02-24 14:08)
+  
+  ✔ Das eigentliche Bild auf die Zeichenfläche zeichnen @done (13-02-24 14:08)
   ☐ Das Bild bewegen ( while Statement erklären )
 
   --- ✄ -----------------------
